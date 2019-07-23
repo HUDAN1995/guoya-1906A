@@ -45,6 +45,6 @@
 # print(ff())
 #有参数，无返回值
 # def ff(a,b,money):
-#     return '{a1}欠{b1}{mon}钱'.format(mon=money,a1=a,b1=b)
+#     return '{a1}欠{b1}{mon}钱'.format(mon=money,a1=a,bb)
 # print(ff('蚝哥','丹姐的爱情','不止一百万元'))
 
